@@ -5,3 +5,7 @@ requests
 xgboost
 scikit-learn
 plotly
+pytz
+entsoe-py
+holidays
+yfinance
